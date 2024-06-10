@@ -1,4 +1,4 @@
-# some popular machine learning algorithms and when to use them:
+# Some popular machine learning algorithms and when to use them:
 
 ### 1. k-Nearest Neighbors (KNN)
 
